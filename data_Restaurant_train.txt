@@ -139,7 +139,7 @@ _Hương vị thơm ngon, ăn cay cay rất thích, nêm nếm vừa miệng. Ng
 {LOCATION#GENERAL, positive}, {AMBIENCE#GENERAL, positive}, {FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
 
 #36
-#3sacthai khác nhau, cơ mà nhìn kiểu nào cũng ngon không tưởng.
+3sacthai khác nhau, cơ mà nhìn kiểu nào cũng ngon không tưởng.
 {FOOD#STYLE&OPTIONS, positive}, {FOOD#QUALITY, positive}
 
 #37
